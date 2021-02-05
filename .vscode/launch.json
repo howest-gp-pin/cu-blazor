@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/ToDoList/bin/Debug/netcoreapp3.1/ToDoList.dll",
+            "program": "${workspaceFolder}/ToDoList/bin/Debug/net5.0/ToDoList.dll",
             "args": [],
             "cwd": "${workspaceFolder}/ToDoList",
             "stopAtEntry": false,
