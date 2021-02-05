@@ -1,4 +1,4 @@
-# Graduaat Programmeren
+# Howest Graduaat Programmeren
 
 ## Programming Innvoation
 
